@@ -1,0 +1,7 @@
+{
+  "name": "Capflow AI - Professional Caption Studio",
+  "description": "A high-end video captioning tool that allows you to upload videos and SRT files, with AI-driven style suggestions and professional-grade overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
